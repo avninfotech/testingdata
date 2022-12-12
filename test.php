@@ -9,6 +9,7 @@ echo "<br>".$temp2;
 
 
 echo "<br>".$temp."".$temp2;
+echo "<br> THis is justa second code";
 
 $tmp=explode(" ",$input);
 
